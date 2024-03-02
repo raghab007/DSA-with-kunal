@@ -10,6 +10,10 @@ public class Arrays {
         numbers[4] = 5;
         System.out.println(numbers); // It will print address of the array
 
+        int[] number ; // declaration of array
+        number = new int[10]; // creation of array object in the heap memory
+
+
 
     }
     
